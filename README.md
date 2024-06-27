@@ -18,6 +18,6 @@ Commit your changes (git commit -m 'Add some AmazingFeature').
 Push to the branch (git push origin feature/AmazingFeature).
 Open a pull request.
 📧 Contact
-For any inquiries or questions, please contact me at your-email@example.com.
+For any inquiries or questions, please contact me at marypirate49@gmail.com
 
 Made with ❤️ by Mary Lindsen
