@@ -95,3 +95,16 @@ document.getElementById('reset-button').addEventListener('click', resetGame);
 
 // Inicializa o jogo
 resetGame();
+
+/*
+JavaScript Functions and Concepts for Memory Game
+    Card Array: An array of card objects with pairs of icons.
+    Shuffle Function: A function to shuffle the cards using the Fisher-Yates algorithm.
+    Create Board: A function to create the game board and distribute the shuffled cards.
+    Flip Card: A function that handles the logic of flipping cards.
+    Check For Match: Checks if the two flipped cards are a matching pair.
+    Disable Cards: Removes the click events from the matched cards.
+    Unflip Cards: Flips the cards back over if they do not match.
+    Reset Board: Resets the board state.
+    Reset Game: Resets the game and recreates the board.
+*/
