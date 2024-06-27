@@ -26,7 +26,7 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/seu-usuario/memory-game.git
+   git clone https://github.com/MaryLindsen/memory-game.git
 
 ##🕹️ How to Play
 - **Start the Game**: Click on any card to start.
