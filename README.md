@@ -8,10 +8,6 @@ This is a simple memory game built with HTML, CSS, and JavaScript. The objective
 
 ![Memory Game Screenshot](memoryGame.png)
 
-## 🎮 Live Demo
-
-Check out the live demo [here](https://seu-usuario.github.io/memory-game).
-
 ## 🚀 Features
 
 - **Shuffling Cards**: Each game starts with a randomly shuffled deck.
