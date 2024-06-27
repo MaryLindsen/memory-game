@@ -6,7 +6,7 @@ Welcome to the Memory Game! A fun and challenging game to test your memory skill
 
 This is a simple memory game built with HTML, CSS, and JavaScript. The objective of the game is to find all the matching pairs of cards in the least number of moves.
 
-![Memory Game Screenshot](https://example.com/screenshot.png)
+![Memory Game Screenshot](memoryGame.png)
 
 ## 🎮 Live Demo
 
