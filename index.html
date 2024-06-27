@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jogo da Memória</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Memory Game</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="game-container">
-        <div id="memory-board" class="memory-board"></div>
-        <button id="reset-button">Resetar Jogo</button>
+  <div class="memory-game">
+    <div class="memory-card" data-card="1">
+      <img class="front-face" src="card1.png" alt="Card 1">
+      <img class="back-face" src="card-back.png" alt="Card Back">
     </div>
-    <script src="scripts.js"></script>
+    <!-- Add more memory cards as needed -->
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>
